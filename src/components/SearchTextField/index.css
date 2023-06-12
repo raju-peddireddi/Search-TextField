@@ -1,0 +1,13 @@
+* {
+  font-family: "Inter";
+  font-size: 12px;
+  line-height: 16px;
+ 
+}
+
+.input-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: '183px'
+}
